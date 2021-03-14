@@ -1,6 +1,6 @@
 # Parrallax-Space
  
-сайт с эффектом parralax.Space
+сайт с эффектом parallax.Space
 
 Portfolio-2
 
