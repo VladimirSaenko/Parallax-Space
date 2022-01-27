@@ -1,4 +1,4 @@
-# Parrallax-Space
+# Parallax-Space
 
 ## Сайт с эффектом parallax
 
