@@ -22,11 +22,4 @@ img {
 .container {
     height: 100vh;
     overflow: hidden;
-    background: url(images/background.jpg);
-    background-position: center;
-    background-size: cover;
-}
-
-.layer:hover {
-    cursor: pointer;
 }
